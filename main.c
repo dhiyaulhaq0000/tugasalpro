@@ -1,8 +1,0 @@
-#include <stdio.h>
-#include <stdlib.h>
-
-int main()
-{
-    printf("h and dunbar\n");
-    return 0;
-}
